@@ -83,8 +83,8 @@ const Header = ({ onCartClick }) => {
               <div className="w-8 h-8 bg-gradient-to-br from-accent to-yellow-500 rounded-lg flex items-center justify-center">
                 <ApperIcon name="Sparkles" className="w-5 h-5 text-white" />
               </div>
-              <span className="font-display text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                Vogue Threads
+<span className="font-display text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
+                Fashion Studio
               </span>
             </Link>
 
