@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "name": "Shirts",
+    "subcategories": ["Button Shirts", "T-Shirts", "Blouses"]
+  },
+  {
+    "Id": 2,
+    "name": "Bottoms",
+    "subcategories": ["Jeans", "Trousers", "Skirts"]
+  },
+  {
+    "Id": 3,
+    "name": "Dresses",
+    "subcategories": ["Midi Dresses", "Maxi Dresses", "Mini Dresses"]
+  },
+  {
+    "Id": 4,
+    "name": "Sweaters",
+    "subcategories": ["Cashmere", "Cotton", "Wool"]
+  },
+  {
+    "Id": 5,
+    "name": "Outerwear",
+    "subcategories": ["Coats", "Jackets", "Blazers"]
+  },
+  {
+    "Id": 6,
+    "name": "Shoes",
+    "subcategories": ["Boots", "Heels", "Flats", "Sneakers"]
+  },
+  {
+    "Id": 7,
+    "name": "Blazers",
+    "subcategories": ["Linen", "Wool", "Cotton"]
+  }
+]
