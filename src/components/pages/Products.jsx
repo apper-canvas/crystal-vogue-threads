@@ -11,7 +11,7 @@ import cartService from "@/services/api/cartService";
 import { toast } from "react-toastify";
 
 const Products = () => {
-  const [products, setProducts] = useState([]);
+const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [filters, setFilters] = useState({});
